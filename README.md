@@ -65,7 +65,7 @@ python app.py
 
 ## License
 
-
+MIT License - see [LICENSE](LICENSE)
 
 
 ## Built With
