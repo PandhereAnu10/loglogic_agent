@@ -4,6 +4,12 @@
 An AI-powered SRE agent that analyzes server logs using multi-step reasoning, anomaly detection, and self-verification to diagnose issues and suggest fixes.
 
 
+## Screenshots
+
+| | |
+|---|---|
+| ![](demo_screenshots/1.png) | ![](demo_screenshots/2.png) |
+| ![](demo_screenshots/3.png) | ![](demo_screenshots/4.png) |
 
 
 ## Features
